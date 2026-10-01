@@ -5,7 +5,7 @@
 
 [![PyPI - tiered-semantic-cache](https://img.shields.io/badge/PyPI-tiered--semantic--cache-000000?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/tiered-semantic-cache/)
 [![PyPI - towergb](https://img.shields.io/badge/PyPI-towergb-000000?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/towergb/)
-[![GitHub](https://img.shields.io/badge/GitHub-anishupreti47--git-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anishupreti47-git)
+[![GitHub](https://img.shields.io/badge/GitHub-anishupr47--git-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anishupr47-git)
 [![Email](https://img.shields.io/badge/Email-anish.upr.47%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anish.upr.47@gmail.com)
 
 </div>
@@ -57,11 +57,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anishupreti47-git&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=999999&icon_color=FFFFFF" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishupreti47-git&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=999999" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=anishupr47-git&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=999999&icon_color=FFFFFF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishupr47-git&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=999999" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anishupreti47-git&theme=dark&hide_border=true&background=000000&stroke=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" width="97%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anishupr47-git&theme=dark&hide_border=true&background=000000&stroke=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" width="97%" />
 
 </div>
