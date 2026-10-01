@@ -55,18 +55,19 @@
 
 ### Featured Systems & Architecture
 
+| Repository | Scope & Architecture | Runtime / Stack | Status |
+| :--- | :--- | :--- | :--- |
+| [**tiered-semantic-cache**](https://github.com/anishupr47-git/tiered-semantic-cache) | Offline two-tiered semantic caching engine with custom AsyncIO TCP daemon implementing Redis RESP protocol, O(1) LRU eviction, and zero-copy `mmap` disk persistence. Cuts redundant LLM query latency from 3s to sub-ms. | Python, AsyncIO, Redis/RESP, mmap | [![PyPI](https://img.shields.io/pypi/v/tiered-semantic-cache?color=000000&label=PyPI&logo=pypi&logoColor=white)](https://pypi.org/project/tiered-semantic-cache/) |
+| [**TowerGB**](https://github.com/anishupr47-git/TowerGB) | Scikit-Learn compatible gradient-boosted ensemble framework with automated missing-data preprocessing and calibrated probability estimates. Validated via automated 69-test CI/CD suite. | Python, Scikit-Learn, NumPy | [![PyPI](https://img.shields.io/pypi/v/towergb?color=000000&label=PyPI&logo=pypi&logoColor=white)](https://pypi.org/project/towergb/) |
+| [**DRISTI_OS**](https://github.com/anishupr47-git) | Dual-stack voice-to-agent engine coordinating asynchronous streaming speech-to-text, agentic tool execution, and frontier reasoning models. **1st Place Winner, National AI Hackathon 2026**. | FastAPI, TypeScript, Deepgram, LLM APIs | Active |
+
+<br/>
+
 <div align="center">
 
-<a href="https://github.com/anishupr47-git/tiered-semantic-cache">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anishupr47-git&repo=tiered-semantic-cache&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=999999&icon_color=FFFFFF" width="48%" />
-</a>
-<a href="https://github.com/anishupr47-git/towergb">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anishupr47-git&repo=towergb&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=999999&icon_color=FFFFFF" width="48%" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishupr47-git&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=999999" width="55%" />
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishupr47-git&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=999999" width="48%" />
+</div>
 
 <br/><br/>
 
