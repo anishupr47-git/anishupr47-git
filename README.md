@@ -53,24 +53,19 @@
 
 ***
 
-### Featured Systems & Architecture
+### Systems Architecture & Production Benchmarks
 
-| Repository | Scope & Architecture | Runtime / Stack | Status |
-| :--- | :--- | :--- | :--- |
-| [**tiered-semantic-cache**](https://github.com/anishupr47-git/tiered-semantic-cache) | Offline two-tiered semantic caching engine with custom AsyncIO TCP daemon implementing Redis RESP protocol, O(1) LRU eviction, and zero-copy `mmap` disk persistence. Cuts redundant LLM query latency from 3s to sub-ms. | Python, AsyncIO, Redis/RESP, mmap | [![PyPI](https://img.shields.io/pypi/v/tiered-semantic-cache?color=000000&label=PyPI&logo=pypi&logoColor=white)](https://pypi.org/project/tiered-semantic-cache/) |
-| [**TowerGB**](https://github.com/anishupr47-git/TowerGB) | Scikit-Learn compatible gradient-boosted ensemble framework with automated missing-data preprocessing and calibrated probability estimates. Validated via automated 69-test CI/CD suite. | Python, Scikit-Learn, NumPy | [![PyPI](https://img.shields.io/pypi/v/towergb?color=000000&label=PyPI&logo=pypi&logoColor=white)](https://pypi.org/project/towergb/) |
-| [**DRISTI_OS**](https://github.com/anishupr47-git) | Dual-stack voice-to-agent engine coordinating asynchronous streaming speech-to-text, agentic tool execution, and frontier reasoning models. **1st Place Winner, National AI Hackathon 2026**. | FastAPI, TypeScript, Deepgram, LLM APIs | Active |
+| System / Engine | Core Architecture & Protocol | Key Benchmarks & Production Metrics | Runtime & Stack | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| [**tiered-semantic-cache**](https://github.com/anishupr47-git/tiered-semantic-cache) | Offline two-tiered semantic caching engine with custom AsyncIO TCP daemon implementing Redis RESP wire protocol, O(1) LRU eviction, and zero-copy `mmap` disk persistence[cite: 5]. | **< 1ms response latency** (reduced from ~3.0s LLM round-trips); zero-copy memory-mapped disk I/O; linear memory scaling under concurrent reads[cite: 5]. | Python, AsyncIO, Redis/RESP, mmap[cite: 5] | [![PyPI](https://img.shields.io/pypi/v/tiered-semantic-cache?color=000000&label=PyPI&logo=pypi&logoColor=white)](https://pypi.org/project/tiered-semantic-cache/)[cite: 5] |
+| [**TowerGB**](https://github.com/anishupr47-git/TowerGB) | Scikit-Learn compatible gradient-boosted ensemble framework with automated missing-feature imputation and Platt/temperature probability calibration[cite: 5]. | **100% CI pass rate** across automated 69-test suite; deterministic probability calibration; 100+ active downloads on PyPI[cite: 5]. | Python, Scikit-Learn, NumPy, CI/CD[cite: 5] | [![PyPI](https://img.shields.io/pypi/v/towergb?color=000000&label=PyPI&logo=pypi&logoColor=white)](https://pypi.org/project/towergb/)[cite: 5] |
+| [**DRISTI_OS**](https://github.com/anishupr47-git) | Dual-stack voice-to-agent engine coordinating asynchronous streaming speech-to-text, agentic tool execution, and frontier reasoning models[cite: 5]. | **1st Place Champion** (National AI Hackathon 2026); real-time bidirectional audio streaming via Deepgram with sub-second agent tool dispatch[cite: 5]. | FastAPI, TypeScript, Deepgram STT, LLM APIs[cite: 5] | Production Hackathon Build[cite: 5] |
+| **Enterprise Data Microservices** | High-throughput distributed backend services, asynchronous Celery workers, and PostgreSQL query execution refactoring[cite: 5]. | **30%–35% API latency reduction** via B-tree indexing and ORM query optimization; zero production downtime across multi-tenant deployments[cite: 5]. | FastAPI, Django REST, PostgreSQL, Redis, Docker[cite: 5] | Commercial Production[cite: 5] |
 
 <br/>
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishupr47-git&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=999999" width="55%" />
-
-</div>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anishupr47-git&theme=github-compact&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="98%" />
 
 </div>
