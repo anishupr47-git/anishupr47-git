@@ -53,11 +53,19 @@
 
 ***
 
-### Production Metrics and Activity Graph
+### Featured Systems & Architecture
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anishupr47-git&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=999999&icon_color=FFFFFF" width="48%" />
+<a href="https://github.com/anishupr47-git/tiered-semantic-cache">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anishupr47-git&repo=tiered-semantic-cache&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=999999&icon_color=FFFFFF" width="48%" />
+</a>
+<a href="https://github.com/anishupr47-git/towergb">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anishupr47-git&repo=towergb&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=999999&icon_color=FFFFFF" width="48%" />
+</a>
+
+<br/><br/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishupr47-git&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=999999" width="48%" />
 
 <br/><br/>
