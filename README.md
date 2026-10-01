@@ -53,15 +53,15 @@
 
 ***
 
-### Production Metrics and Activity
+### Production Metrics and Activity Graph
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=anishupr47-git&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=999999&icon_color=FFFFFF" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishupr47-git&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=999999" width="48%" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anishupr47-git&theme=dark&hide_border=true&background=000000&stroke=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" width="97%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anishupr47-git&theme=github-compact&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="98%" />
 
 </div>
